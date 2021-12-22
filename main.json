@@ -3433,7 +3433,7 @@
         {
          "columns":3,
          "firstgid":15189,
-         "image":"..\/moneybin\/tiles\/ModernInteriors\/animated_control_room_server_32x32.png",
+         "image":"tiles\/ModernInterieurs\/animated_control_room_server_32x32.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
