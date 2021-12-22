@@ -1304,6 +1304,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1327,6 +1333,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"wintiles",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1340,6 +1352,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1353,6 +1371,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"1_Generic_Shadowless32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1248,
          "tileheight":32,
@@ -1366,6 +1390,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"13_Conference_Hall_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -1379,6 +1409,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"23_Tevelision_and_Film_Studio_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":224,
          "tileheight":32,
@@ -1411,6 +1447,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"20_Japanese_interiors_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -1424,6 +1466,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"Room_Builder_Floor_Connectors_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":252,
          "tileheight":32,
@@ -1437,6 +1485,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"Room_Builder_Floors_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":600,
          "tileheight":32,
@@ -1469,6 +1523,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1499,6 +1559,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"2_LivingRoom_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":720,
          "tileheight":32,
@@ -1512,6 +1578,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"22_Museum_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1952,
          "tileheight":32,
@@ -1525,6 +1597,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"14_Basement_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":800,
          "tileheight":32,
@@ -1538,6 +1616,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"18_Jail_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":720,
          "tileheight":32,
@@ -1551,6 +1635,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"8_Gym_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":528,
          "tileheight":32,
@@ -1564,6 +1654,12 @@
          "imagewidth":1440,
          "margin":0,
          "name":"Room_Builder_borders_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":450,
          "tileheight":32,
@@ -1577,6 +1673,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"animated_door_big_6_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":15,
          "tileheight":32,
@@ -1590,6 +1692,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"6_Music_and_sport_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":768,
          "tileheight":32,
@@ -1603,6 +1711,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"Schilder",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -1665,6 +1779,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"3_Bathroom_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":896,
          "tileheight":32,
@@ -1678,6 +1798,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"12_Kitchen_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":784,
          "tileheight":32,
@@ -1691,6 +1817,12 @@
          "imagewidth":2304,
          "margin":0,
          "name":"animated_TV_reportage_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":144,
          "tileheight":32,
@@ -2305,6 +2437,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"rc3-logo",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -2318,6 +2456,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -2941,6 +3085,12 @@
          "imagewidth":1152,
          "margin":0,
          "name":"animated_cat_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
@@ -3059,6 +3209,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"animated_coffee_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -3185,6 +3341,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"animated_fridge_white_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":42,
          "tileheight":32,
@@ -3198,6 +3360,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"animated_kitchen_microwave_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
