@@ -493,6 +493,12 @@
          "id":4,
          "name":"exitToWorld",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/lobby"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":61,
@@ -2534,6 +2540,12 @@
          "imagewidth":2304,
          "margin":0,
          "name":"animated_TV_reportage_hospital_2_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":144,
          "tileheight":32,
