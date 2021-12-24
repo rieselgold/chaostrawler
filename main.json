@@ -66,6 +66,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter C3Teleshop-Chat."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -414,6 +419,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/jetzt-mega-absahnen.shop"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -432,6 +442,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/twitter.com\/chaostrawler"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -450,6 +465,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/twitter.com\/C3Teleshop\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -468,6 +488,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ms.stubnitz.com\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1370,6 +1395,21 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"Map \"chaostrawler\/c3teleshop\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Chaostrawler Studio"
         }, 
         {
          "name":"script",
