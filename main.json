@@ -461,7 +461,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE to open the C3-Teleshop-Website."
+                 "value":"Press SPACE to open the C3-Teleshop."
                 }],
          "type":"tilelayer",
          "visible":true,

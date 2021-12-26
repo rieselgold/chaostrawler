@@ -527,7 +527,7 @@
   <properties>
    <property name="openWebsite" value="https://jetzt-mega-absahnen.shop"/>
    <property name="openWebsiteTrigger" value="onaction"/>
-   <property name="openWebsiteTriggerMessage" value="Press SPACE to open the C3-Teleshop-Website."/>
+   <property name="openWebsiteTriggerMessage" value="Press SPACE to open the C3-Teleshop."/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
