@@ -676,7 +676,7 @@
  </layer>
  <layer id="4" name="exitToWorld" width="61" height="23">
   <properties>
-   <property name="exitUrl" value="world://lobby"/>
+   <property name="exitUrl" value="world://lobby/punchcard.json#start_chaostrawler"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

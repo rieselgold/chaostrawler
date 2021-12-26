@@ -555,7 +555,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby"
+                 "value":"world:\/\/lobby\/punchcard.json#start_chaostrawler"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -952,8 +952,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1311.66666666667,
-                 "y":504.333333333333
+                 "x":1311.67,
+                 "y":504.333
                 }, 
                 {
                  "height":0,
