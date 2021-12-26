@@ -527,6 +527,7 @@
   <properties>
    <property name="openWebsite" value="https://jetzt-mega-absahnen.shop"/>
    <property name="openWebsiteTrigger" value="onaction"/>
+   <property name="openWebsiteTriggerMessage" value="Press SPACE to open the C3-Teleshop-Website."/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -556,8 +557,9 @@
  </layer>
  <layer id="46" name="linkChaostrawler" width="61" height="23">
   <properties>
-   <property name="openWebsite" value="https://twitter.com/chaostrawler?ref_src=twsrc%5Etfw"/>
+   <property name="openTab" value="https://twitter.com/chaostrawler"/>
    <property name="openWebsiteTrigger" value="onaction"/>
+   <property name="openWebsiteTriggerMessage" value="Press SPACE to open @chaostrawler in a new Tab."/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -587,8 +589,9 @@
  </layer>
  <layer id="47" name="linkC3teleshop" width="61" height="23">
   <properties>
-   <property name="openTab" value="https://twitter.com/C3Teleshop/?ref_src=twsrc%5Etfw"/>
-   <property name="openWebsiteTrigger" value="onaction"/>
+   <property name="openTab" value="https://twitter.com/C3Teleshop/"/>
+   <property name="openTabTrigger" value="onaction"/>
+   <property name="openWebsiteTriggerMessage" value="Press SPACE to open @c3teleshop in a new Tab."/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -620,6 +623,7 @@
   <properties>
    <property name="openWebsite" value="https://ms.stubnitz.com/"/>
    <property name="openWebsiteTrigger" value="onaction"/>
+   <property name="openWebsiteTriggerMessage" value="Press SPACE to open the website of the MS Stubniz."/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

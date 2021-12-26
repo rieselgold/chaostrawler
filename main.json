@@ -457,6 +457,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to open the C3-Teleshop-Website."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -472,14 +477,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/twitter.com\/chaostrawler?ref_src=twsrc%5Etfw"
+                 "value":"https:\/\/twitter.com\/chaostrawler"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to open @chaostrawler in a new Tab."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -497,12 +507,17 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/twitter.com\/C3Teleshop\/?ref_src=twsrc%5Etfw"
+                 "value":"https:\/\/twitter.com\/C3Teleshop\/"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openTabTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to open @c3teleshop in a new Tab."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -526,6 +541,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to open the website of the MS Stubniz."
                 }],
          "type":"tilelayer",
          "visible":true,
