@@ -556,7 +556,7 @@
  </layer>
  <layer id="46" name="linkChaostrawler" width="61" height="23">
   <properties>
-   <property name="openWebsite" value="https://twitter.com/chaostrawler"/>
+   <property name="openWebsite" value="https://twitter.com/chaostrawler?ref_src=twsrc%5Etfw"/>
    <property name="openWebsiteTrigger" value="onaction"/>
   </properties>
   <data encoding="csv">
@@ -587,7 +587,7 @@
  </layer>
  <layer id="47" name="linkC3teleshop" width="61" height="23">
   <properties>
-   <property name="openWebsite" value="https://twitter.com/C3Teleshop/"/>
+   <property name="openTab" value="https://twitter.com/C3Teleshop/?ref_src=twsrc%5Etfw"/>
    <property name="openWebsiteTrigger" value="onaction"/>
   </properties>
   <data encoding="csv">

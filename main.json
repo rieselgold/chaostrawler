@@ -474,7 +474,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/twitter.com\/chaostrawler"
+                 "value":"https:\/\/twitter.com\/chaostrawler?ref_src=twsrc%5Etfw"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -495,9 +495,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/twitter.com\/C3Teleshop\/"
+                 "value":"https:\/\/twitter.com\/C3Teleshop\/?ref_src=twsrc%5Etfw"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
