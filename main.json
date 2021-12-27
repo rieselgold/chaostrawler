@@ -510,11 +510,6 @@
                  "value":"https:\/\/twitter.com\/C3Teleshop\/"
                 }, 
                 {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/twitter.com\/C3Teleshop\/"
-                }, 
-                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
