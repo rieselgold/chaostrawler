@@ -482,7 +482,7 @@
                  "value":"https:\/\/twitter.com\/chaostrawler"
                 }, 
                 {
-                 "name":"openTabTrigger",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
@@ -510,7 +510,12 @@
                  "value":"https:\/\/twitter.com\/C3Teleshop\/"
                 }, 
                 {
-                 "name":"openTabTrigger",
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/twitter.com\/C3Teleshop\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
