@@ -1238,6 +1238,23 @@
                  "width":0,
                  "x":800,
                  "y":539
+                }, 
+                {
+                 "height":125,
+                 "id":12,
+                 "name":"c3teleshop",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"tqhnQpwtImSSBUIUYQyJOwceFvtZTj7cpJKkJHASG5xftnprM6"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":154,
+                 "x":101,
+                 "y":419
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1498,7 +1515,7 @@
          "y":0
         }],
  "nextlayerid":75,
- "nextobjectid":12,
+ "nextobjectid":13,
  "orientation":"orthogonal",
  "properties":[
         {
